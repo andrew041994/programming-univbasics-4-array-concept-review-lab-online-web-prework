@@ -1,4 +1,4 @@
-def find_element_index(scale, value_to_find)
+def find_element_index(scale,2)
   value_to_find.index[2]
 end
 
